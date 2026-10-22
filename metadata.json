@@ -1,0 +1,6 @@
+{
+  "name": "SCAMSHIELD AI — AI Scam Message Detector",
+  "description": "Detect Suspicious Messages. Understand the Risk. Stay Safe Online. Advanced AI-assisted scam analysis, observable indicator breakdowns, safety recommendations, and verifiable reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
